@@ -97,7 +97,7 @@ nav > a {
     font-weight: bold;
     transition-duration: .5s;
     color: var(--cor01);
-    max-width: 100%;
+    max-width: 75%;
 }
 
 nav > a:hover{
