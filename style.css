@@ -92,7 +92,7 @@ nav > a {
     font-family: var
     (--font-padrao);
     font-size: 1em;
-    padding: 15px;
+    padding: 10px;
     text-decoration: none;
     font-weight: bold;
     transition-duration: .5s;
